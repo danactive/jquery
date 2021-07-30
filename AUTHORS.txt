@@ -9,6 +9,7 @@ Corey Jewett <cj@syntheticplayground.com>
 Klaus Hartl <klaus.hartl@gmail.com>
 Franck Marcia <franck.marcia@gmail.com>
 Jörn Zaefferer <joern.zaefferer@gmail.com>
+Dan BROOKS <dan@domaindesign.ca>
 Paul Bakaus <paul.bakaus@gmail.com>
 Brandon Aaron <brandon.aaron@gmail.com>
 Mike Alsup <malsup@gmail.com>
